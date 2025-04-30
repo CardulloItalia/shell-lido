@@ -2,8 +2,14 @@
 
 :root {
     --primary-color:#2A6F97;
+    --background-site: #FFFFFF;
     --text-color: #000000;
     --text-color-secondary: #FFFFFF;
     --font: "Afacad", sans-serif;
 }
 
+body {
+    background-color: var(--background-site);
+    padding: 1rem 4rem;
+    font-family: var(--font);
+}
