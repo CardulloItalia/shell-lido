@@ -1,0 +1,9 @@
+@import url('https://fonts.googleapis.com/css2?family=Afacad:ital,wght@0,400..700;1,400..700&display=swap');
+
+:root {
+    --primary-color:#2A6F97;
+    --text-color: #000000;
+    --text-color-secondary: #FFFFFF;
+    --font: "Afacad", sans-serif;
+}
+
